@@ -38,4 +38,4 @@
 <img src="https://imgur.com/chbB746.jpg">
 
 # Nạp firmware chú ý nạp từng bên không kết nối 2 mạch. Nhấn reset trên mạch là nút đen nhỏ dưới oled "bấm 2 giây nhả, nhấn và nhả thêm 1 lần nữa liền"
-![video hướng dẫn reset](https://youtube.com/shorts/RQlWx_O3xkk?feature=share)
+[video hướng dẫn reset]([https://youtube.com/shorts/RQlWx_O3xkk?feature=share](https://www.youtube.com/shorts/RQlWx_O3xkk)
