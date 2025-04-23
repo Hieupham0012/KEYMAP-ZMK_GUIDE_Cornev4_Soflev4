@@ -30,12 +30,15 @@
 <img src="https://imgur.com/AGpivZR.jpg">
 <img src="https://imgur.com/j0CJfxT.jpg">
 <img src="https://imgur.com/4qNT8wF.jpg">
-
+<img src="https://imgur.com/ZmfIkmQ.jpg">
+<img src="https://imgur.com/chbB746.jpg">
 ## Cuối cùng chỉ đợi 5 đến 7 phút để tạo code tự động bạn tải firmware về giải nén và nạp vào từng bên mạch là đã hoàn thành.
 ### Cách nạp bạn cắm dây vào mày tính kết nối với bên cần nạp, nhấn nút reset trên mạch 3 giây nhả ra nhấn cái nữa liền > thư mục ổ đĩa nano!v2 sẽ hiện ra > bạn giữ chuột kéo firmware bên cần nạp vào ổ địa mới hiện là xong
 
-<img src="https://imgur.com/ZmfIkmQ.jpg">
-<img src="https://imgur.com/chbB746.jpg">
-
 # Nạp firmware chú ý nạp từng bên không kết nối 2 mạch. Nhấn reset trên mạch là nút đen nhỏ dưới oled "bấm 2 giây nhả, nhấn và nhả thêm 1 lần nữa liền"
 [video hướng dẫn reset]([https://youtube.com/shorts/RQlWx_O3xkk?feature=share](https://www.youtube.com/shorts/RQlWx_O3xkk)
+
+# Nếu sau nạp bàn phím bên phải không kết nối được bàn phím bên trái:
+nghĩa là bàn phím đang bị đè code mất tín hiệu giữa 2 mạch cần nạp reset trước rồi nạp firmware mới.
+Bàn phím này là bàn phím wireless dây 3,5mm có tác dụng sạc không truyền dữ liệu nên chỉ có cách theo hướng dẫn trên. Cách khác để dùng có dây là nạp firmware bản có dây chứ không phải bản wireless này
+[Nếu gặp mất kết nối 2 mạch nhấn vào đây](https://github.com/Hieupham0012/Fix_Eror_connect_L-R_nano_v2)
