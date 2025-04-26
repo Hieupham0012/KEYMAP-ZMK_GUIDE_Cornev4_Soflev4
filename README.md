@@ -1,3 +1,4 @@
+# *Chú ý: Sản phẩm là DIY nên có nhiều cách khác nhau, có thể có cách dễ hơn hoặc khó hơn. Dưới đây là hướng dẫn của shop mà shop cảm thấy đơn giản và thực hiện thẳng vào code mạch hoạt động ổn định nhất*
 # HƯỚNG DẪN TẠO FIRMWARE TỪ REPOSITORIES CÓ SẴN.
 ## Bước 1: Đầu tiên bạn phải có tài khoản github "khá đơn giản để có phần này"
 ## Bước 2: tìm kiếm repositories của shop theo đúng bàn phím cần keymap là corne hay sofle zmk wireless
@@ -40,7 +41,8 @@
 # Nạp firmware chú ý nạp từng bên không kết nối 2 mạch. Nhấn reset trên mạch là nút đen nhỏ dưới oled "bấm 2 giây nhả, nhấn và nhả thêm 1 lần nữa liền"
 [video hướng dẫn reset]([https://youtube.com/shorts/RQlWx_O3xkk?feature=share](https://www.youtube.com/shorts/RQlWx_O3xkk)
 
-# Nếu sau nạp bàn phím bên phải không kết nối được bàn phím bên trái:
+# *Phần cập nhập thêm: Nếu sau nạp bàn phím bên phải không kết nối được bàn phím bên trái:
+## -trường hợp này không thường xuyên xuất hiện nhưng có thể có nên shop lưu ý thêm. 
 nghĩa là bàn phím đang bị đè code mất tín hiệu giữa 2 mạch cần nạp reset trước rồi nạp firmware mới.
 Bàn phím này là bàn phím wireless dây 3,5mm có tác dụng sạc không truyền dữ liệu nên chỉ có cách theo hướng dẫn trên. Cách khác để dùng có dây là nạp firmware bản có dây chứ không phải bản wireless này
 [Nếu gặp mất kết nối 2 mạch nhấn vào đây](https://github.com/Hieupham0012/Fix_Eror_connect_L-R_nano_v2)
