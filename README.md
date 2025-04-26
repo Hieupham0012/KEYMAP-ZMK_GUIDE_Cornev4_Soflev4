@@ -32,7 +32,9 @@
 <img src="https://imgur.com/4qNT8wF.jpg">
 <img src="https://imgur.com/ZmfIkmQ.jpg">
 <img src="https://imgur.com/chbB746.jpg">
+
 ## Cuối cùng chỉ đợi 5 đến 7 phút để tạo code tự động bạn tải firmware về giải nén và nạp vào từng bên mạch là đã hoàn thành.
+
 ### Cách nạp bạn cắm dây vào mày tính kết nối với bên cần nạp, nhấn nút reset trên mạch 3 giây nhả ra nhấn cái nữa liền > thư mục ổ đĩa nano!v2 sẽ hiện ra > bạn giữ chuột kéo firmware bên cần nạp vào ổ địa mới hiện là xong
 
 # Nạp firmware chú ý nạp từng bên không kết nối 2 mạch. Nhấn reset trên mạch là nút đen nhỏ dưới oled "bấm 2 giây nhả, nhấn và nhả thêm 1 lần nữa liền"
