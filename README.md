@@ -9,8 +9,8 @@
 <img src="https://imgur.com/A9mqpqd.jpg">
 
 ## Bước 3: Fork repositories này "tạo nhánh thành về repos của bạn"
-[Đây là repositories corne v4 wireless cần fork](https://github.com/Hieupham0012/Corne-OLED_Wireless)
-[Đây là repositories sofle v4 pandakb wireless](https://github.com/Hieupham0012/Sofle-oled_wireless)
+## [Đây là repositories corne v4 wireless cần fork](https://github.com/Hieupham0012/Corne-OLED_Wireless)
+## [Đây là repositories sofle v4 pandakb wireless](https://github.com/Hieupham0012/Sofle-oled_wireless)
 
 <img src="https://imgur.com/7S8EGNl.jpg">
 
