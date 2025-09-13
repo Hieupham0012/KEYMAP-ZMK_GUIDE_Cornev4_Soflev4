@@ -44,7 +44,8 @@
 ### Cách nạp bạn cắm dây vào mày tính kết nối với bên cần nạp, nhấn nút reset trên mạch 3 giây nhả ra nhấn cái nữa liền > thư mục ổ đĩa nano!v2 sẽ hiện ra > bạn giữ chuột kéo firmware bên cần nạp vào ổ địa mới hiện là xong
 
 # Nạp firmware chú ý nạp từng bên không kết nối 2 mạch. Nhấn reset trên mạch là nút đen nhỏ dưới oled "bấm 2 giây nhả, nhấn và nhả thêm 1 lần nữa liền"
-## [video hướng dẫn reset](https://youtube.com/shorts/RQlWx_O3xkk?feature=share](https://www.youtube.com/shorts/RQlWx_O3xkk)
+## [video hướng dẫn reset](https://www.youtube.com/shorts/RQlWx_O3xkk)
+## [video hướng dẫn thao tác nạp chi tiết](https://youtu.be/H-76SoJGf8M)
 
 # *Phần cập nhập thêm: Nếu sau nạp bàn phím bên phải không kết nối được bàn phím bên trái:
 ## -trường hợp này không thường xuyên xuất hiện nhưng có thể có nên shop lưu ý thêm. 
