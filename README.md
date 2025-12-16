@@ -1,3 +1,4 @@
+# Nếu sử dụng corne đã có thể dùng zmk studio trực tiếp qua web, còn sofle, pipar,.... bạn vẫn phải thao tác theo hướng dẫn dưới đây.
 # *Chú ý: Sản phẩm là DIY nên có nhiều cách Keymap khác nhau, có thể có cách dễ hơn hoặc khó hơn. Dưới đây là hướng dẫn của shop mà shop cảm thấy đơn giản và thực hiện thẳng vào code mạch hoạt động ổn định nhất*
 ### *-lưu ý thêm: Hãy chủ động nhắn zalo nếu bạn cần cung cấp thêm thông tin hoặc đường dẫn, Trên sàn thương mại điện tử không thể cung cấp thông tin vi phạm chính sách sàn Zalo: 0336905265*
 # HƯỚNG DẪN TẠO FIRMWARE TỪ REPOSITORIES CÓ SẴN.
