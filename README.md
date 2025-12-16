@@ -3,18 +3,26 @@
 ### *-lưu ý thêm: Hãy chủ động nhắn zalo nếu bạn cần cung cấp thêm thông tin hoặc đường dẫn, Trên sàn thương mại điện tử không thể cung cấp thông tin vi phạm chính sách sàn Zalo: 0336905265*
 # HƯỚNG DẪN TẠO FIRMWARE TỪ REPOSITORIES CÓ SẴN.
 ## Bước 1: Đầu tiên bạn phải có tài khoản github "khá đơn giản để có phần này"
-## Bước 2: tìm kiếm repositories của shop theo đúng bàn phím cần keymap là corne hay sofle zmk wireless
+## Bước 2: tìm kiếm repositories ("có đường dẫn nếu không tìm thấy ở dưới") của shop theo đúng bàn phím cần keymap là corne hay sofle zmk wireless
 <img src="https://imgur.com/d6s8xe5.jpg">
 <img src="https://imgur.com/WOhzvFq.jpg">
 
 <img src="https://imgur.com/A9mqpqd.jpg">
 
-## Bước 3: Fork repositories này "tạo nhánh thành về repos của bạn"
-## [Đây là repositories Corne v4 wireless cần fork](https://github.com/shopcntech/corne1)
-## [Đây là repositories Corne v4 wireless cần fork](https://github.com/Hieupham0012/Corne-OLED_Wireless)
-## [Đây là repositories Corne Pandakb cần fork](https://github.com/PandaKBLab/zmk-for-keyboards)
-## [Đây là repositories Sofle RGB v2.1 pandakb wireless](https://github.com/Hieupham0012/Sofle-oled_wireless)
-## [Đây là repositories Pipar flake wireless](https://github.com/Hieupham0012/pipar).
+## Bước 3: Fork repositories này "tạo nhánh thành về repositories của bạn"
+## Bàn phím nào thì fork repositoies đó
+### Corne wireless đường dẫn đến đúng repositories
+## [Repositories Corne v4 wireless nhấn vào](https://github.com/shopcntech/corne1)
+
+## [Repositories Corne bản phụ](https://github.com/Hieupham0012/Corne-OLED_Wireless)
+
+## [Repositories Corne Pandakb Demo](https://github.com/PandaKBLab/zmk-for-keyboards)
+
+### Sofle wireless đường dẫn đến đúng repositories
+## [Repositories Sofle wireless](https://github.com/Hieupham0012/Sofle-oled_wireless)
+
+### pipar flake wireless đường dẫn đến đúng repositories
+## [Repositories Pipar flake wireless](https://github.com/Hieupham0012/pipar).
 
 
 <img src="https://imgur.com/7S8EGNl.jpg">
