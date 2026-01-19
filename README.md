@@ -58,6 +58,9 @@
 ## [video hướng dẫn reset](https://www.youtube.com/shorts/RQlWx_O3xkk)
 ## [video hướng dẫn thao tác nạp chi tiết](https://youtu.be/H-76SoJGf8M)
 ## [video hướng dẫn thao tác lắp DIY chi tiết](https://youtu.be/MlP_Rwf9_qI?si=7YsN9J8kUl5bEZpQ)
+# +Phần này video hướng dẫn tăng thời gian để bàn phím không bị sleep
+## [Video Hướng dẫn tăng thời gian chờ của bàn phím không bị sleep](https://youtu.be/d4-gtTuylZw)
+
 # *Phần cập nhập thêm: Nếu sau nạp bàn phím bên phải không kết nối được bàn phím bên trái:
 ## -trường hợp này không thường xuyên xuất hiện nhưng có thể có nên shop lưu ý thêm. 
 nghĩa là bàn phím đang bị đè code mất tín hiệu giữa 2 mạch cần nạp reset trước rồi nạp firmware mới.
