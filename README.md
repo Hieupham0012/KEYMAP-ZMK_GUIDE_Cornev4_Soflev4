@@ -66,3 +66,7 @@
 nghĩa là bàn phím đang bị đè code mất tín hiệu giữa 2 mạch cần nạp reset trước rồi nạp firmware mới.
 Bàn phím này là bàn phím wireless dây 3,5mm có tác dụng sạc không truyền dữ liệu nên chỉ có cách theo hướng dẫn trên. Cách khác để dùng có dây là nạp firmware bản có dây chứ không phải bản wireless này
 ## [Nếu gặp mất kết nối 2 mạch nhấn vào đây](https://github.com/Hieupham0012/Fix_Eror_connect_L-R_nano_v2)
+
+
+# Hướng dẫn các bạn dùng PC không có bluetooh và mua dongle bên mình
+## [Nhấn vào đây để đến phần hướng dẫn](https://github.com/Hieupham0012/Guide_Dongle_firmware_Corne_Sofle)
