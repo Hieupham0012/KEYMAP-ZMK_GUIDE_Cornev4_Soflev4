@@ -12,15 +12,14 @@
 ## Bước 3: Fork repositories này "tạo nhánh thành về repositories của bạn"
 ## Bàn phím nào thì fork repositoies đó
 ### Corne wireless đường dẫn đến đúng repositories
-## [Repositories Corne v4 wireless nhấn vào](https://github.com/shopcntech/corne1)
-
-## [Repositories Corne bản phụ](https://github.com/Hieupham0012/Corne-OLED_Wireless)
-
+## [Repositories Corne v4 wireless "hỗ trợ zmk studio"](https://github.com/shopcntech/corne1)
+## [Repositories Corne có hỗ trợ RGB "hỗ trợ zmk studio"](https://github.com/Hieupham0012/zmk-dongle-corne-sofle)
+## [Repositories Corne bản phụ cần chỉnh sửa thêm](https://github.com/Hieupham0012/Corne-OLED_Wireless)
 ## [Repositories Corne Pandakb Demo](https://github.com/PandaKBLab/zmk-for-keyboards)
 
 ### Sofle wireless đường dẫn đến đúng repositories
-## [Repositories Sofle wireless](https://github.com/Hieupham0012/Sofle-oled_wireless)
-
+## [Repositories Sofle wireless có hỗ trợ RGB](https://github.com/Hieupham0012/Sofle-oled_wireless)
+## [Repositories Sofle wireless có hỗ trợ zmk studio nhưng không hỗ trợ Led RGB](https://github.com/Hieupham0012/zmk-dongle-corne-sofle)
 ### pipar flake wireless đường dẫn đến đúng repositories
 ## [Repositories Pipar flake wireless](https://github.com/Hieupham0012/pipar).
 
