@@ -20,9 +20,9 @@
 ## 📌 Bước 2: Tìm kiếm repositories hoặc đơn giản là nhấn vào đúng đường link repositories ở dưới.
 🔍 Tìm kiếm repositories (*"có đường dẫn nếu không tìm thấy ở dưới"*) của shop theo đúng bàn phím cần keymap là corne hay sofle zmk wireless
 
-<img src="https://imgur.com/d6s8xe5.jpg" width="400"/>
-<img src="https://imgur.com/WOhzvFq.jpg" width="400"/>
-<img src="https://imgur.com/A9mqpqd.jpg" width="400"/>
+<img src="https://imgur.com/d6s8xe5.jpg" width="800"/>
+<img src="https://imgur.com/WOhzvFq.jpg" width="800"/>
+<img src="https://imgur.com/A9mqpqd.jpg" width="800"/>
 
 ---
 
@@ -53,17 +53,17 @@
 
 - [Repositories Pipar flake wireless](https://github.com/Hieupham0012/pipar)
 
-<img src="https://imgur.com/7S8EGNl.jpg" width="400"/>
-<img src="https://imgur.com/Ve8TC8g.jpg" width="400"/>
+<img src="https://imgur.com/7S8EGNl.jpg" width="800"/>
+<img src="https://imgur.com/Ve8TC8g.jpg" width="800"/>
 
 ---
 
 ## 📌 Bước 4: Qua mục action để bắt đầu build
 ⚙️ Vào mục **Actions** để bắt đầu build firmware
 
-<img src="https://imgur.com/orJ0TOX.jpg" width="400"/>
-<img src="https://imgur.com/UEqkfzH.jpg" width="400"/>
-<img src="https://imgur.com/y7C7yjO.jpg" width="400"/>
+<img src="https://imgur.com/orJ0TOX.jpg" width="800"/>
+<img src="https://imgur.com/UEqkfzH.jpg" width="800"/>
+<img src="https://imgur.com/y7C7yjO.jpg" width="800"/>
 
 ---
 
@@ -76,19 +76,19 @@
 ## 📌 Bước 6: Kết nối với repository
 🔗 Chọn đường dẫn cho keymap editor đến đúng repos của bạn
 
-<img src="https://imgur.com/yHru4EW.jpg" width="400"/>
-<img src="https://imgur.com/6wIjezp.jpg" width="400"/>
+<img src="https://imgur.com/yHru4EW.jpg" width="800"/>
+<img src="https://imgur.com/6wIjezp.jpg" width="800"/>
 
 ---
 
 ## 📌 Bước 7: Tùy chỉnh keymap
 ✏️ Tiến hành keymap theo ý. Xong thì bạn nhấn **"Save"** có thể ghi tên để nhớ bản lưu. Sau đó quay lại action repositories của bạn.
 
-<img src="https://imgur.com/AGpivZR.jpg" width="400"/>
-<img src="https://imgur.com/j0CJfxT.jpg" width="400"/>
-<img src="https://imgur.com/4qNT8wF.jpg" width="400"/>
-<img src="https://imgur.com/ZmfIkmQ.jpg" width="400"/>
-<img src="https://imgur.com/chbB746.jpg" width="400"/>
+<img src="https://imgur.com/AGpivZR.jpg" width="800"/>
+<img src="https://imgur.com/j0CJfxT.jpg" width="800"/>
+<img src="https://imgur.com/4qNT8wF.jpg" width="800"/>
+<img src="https://imgur.com/ZmfIkmQ.jpg" width="800"/>
+<img src="https://imgur.com/chbB746.jpg" width="800"/>
 
 ---
 
