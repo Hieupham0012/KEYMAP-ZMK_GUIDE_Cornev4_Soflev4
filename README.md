@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Bước 3: Fork repositories
+## 📌 Bước 3: Fork repositories "bàn phím nào fork repositories bàn phím đó" nhấn vào link bàn phím dưới
 🍴 Fork repositories dưới này *"tạo nhánh thành về repositories của bạn"*
 
 ### 🎯 Bàn phím nào thì fork repositoies đó. *"Nhấn vào để đến Repostories phù hợp"*
