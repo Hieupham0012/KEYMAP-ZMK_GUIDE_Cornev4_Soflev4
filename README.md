@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Bước 2: Tìm kiếm repositories
+## 📌 Bước 2: Tìm kiếm repositories hoặc đơn giản là nhấn vào đúng đường link repositories ở dưới.
 🔍 Tìm kiếm repositories (*"có đường dẫn nếu không tìm thấy ở dưới"*) của shop theo đúng bàn phím cần keymap là corne hay sofle zmk wireless
 
 <img src="https://imgur.com/d6s8xe5.jpg" width="400"/>
