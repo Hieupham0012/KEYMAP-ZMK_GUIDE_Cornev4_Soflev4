@@ -88,12 +88,14 @@
 <img src="https://imgur.com/j0CJfxT.jpg" width="800"/>
 <img src="https://imgur.com/4qNT8wF.jpg" width="800"/>
 <img src="https://imgur.com/ZmfIkmQ.jpg" width="800"/>
-<img src="https://imgur.com/chbB746.jpg" width="800"/>
+
 
 ---
 
 ## 📌 Bước 8: Tải firmware
 ⏳ Cuối cùng chỉ đợi **5 đến 7 phút** để tạo code tự động bạn tải firmware về giải nén và nạp vào từng bên mạch là đã hoàn thành.
+
+<img src="https://imgur.com/chbB746.jpg" width="800"/>
 
 ---
 
