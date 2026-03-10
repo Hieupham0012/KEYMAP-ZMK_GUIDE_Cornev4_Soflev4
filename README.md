@@ -1,5 +1,5 @@
 # 🎯 HƯỚNG DẪN TẠO FIRMWARE CHO BÀN PHÍM CƠ WIRELESS
-# !LIÊN HỆ SHOP NẾU REPOSITORIES BỊ LỖI ĐỂ SHOP CẬP NHẬT HOẶC GỬI LẠI ĐƯỜNG DẪN KHÁC.
+# ⚠️ LIÊN HỆ SHOP NẾU REPOSITORIES BỊ LỖI ĐỂ SHOP CẬP NHẬT HOẶC GỬI LẠI ĐƯỜNG DẪN KHÁC.
 > 💡 **Nếu sử dụng corne, sofle không led RGB đã có thể dùng zmk studio trực tiếp qua web, còn sofle có led RGB, pipar,.... bạn vẫn phải thao tác theo hướng dẫn dưới đây.**
 
 ⚠️ *Chú ý: Sản phẩm là DIY nên có nhiều cách Keymap khác nhau, có thể có cách dễ hơn hoặc khó hơn. Dưới đây là hướng dẫn của shop mà shop cảm thấy đơn giản và thực hiện thẳng vào code mạch hoạt động ổn định nhất*
