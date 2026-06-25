@@ -2,7 +2,7 @@
 # ⚠️ LIÊN HỆ SHOP NẾU REPOSITORIES BỊ LỖI ĐỂ SHOP CẬP NHẬT HOẶC GỬI LẠI ĐƯỜNG DẪN KHÁC.
 ### hướng dẫn chỉnh lại
 #### [Đường dẫn tới hướng dẫn fix lỗi build dành cho các bạn cũ repositories bị lỗi build](https://github.com/Hieupham0012/FIX_ERROR_BUILD_ACTION)
-> 💡 **Nếu sử dụng corne, sofle không led RGB đã có thể dùng zmk studio trực tiếp qua web, còn sofle có led RGB, pipar,.... bạn vẫn phải thao tác theo hướng dẫn dưới đây.**
+> 💡 **Nếu sử dụng corne, sofle, Mochi40 đã có thể dùng zmk studio trực tiếp qua web, còn pipar,.... bạn vẫn phải thao tác theo hướng dẫn dưới đây.**
 
 ⚠️ *Chú ý: Sản phẩm là DIY nên có nhiều cách Keymap khác nhau, có thể có cách dễ hơn hoặc khó hơn. Dưới đây là hướng dẫn của shop mà shop cảm thấy đơn giản và thực hiện thẳng vào code mạch hoạt động ổn định nhất*
 
