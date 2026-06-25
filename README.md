@@ -49,6 +49,9 @@
 - [Repositories Sofle wireless "có hỗ trợ RGB"](https://github.com/Hieupham0012/Sofle-oled_wireless)
 - [Repositories Sofle wireless "có hỗ trợ zmk studio nhưng không hỗ trợ Led RGB"](https://github.com/Hieupham0012/zmk-dongle-corne-sofle)
 
+### 🔵 **Mochi 40 wireless** - đường dẫn đến đúng repositories
+- [Repositories mochi40 wireless ](https://github.com/Hieupham0012/Mochi_keyboard_42_oled_rotate)
+
 ---
 
 ### 🔵 **Pipar flake wireless** - đường dẫn đến đúng repositories
