@@ -83,7 +83,7 @@
 ---
 
 ## 📌 Bước 6: Kết nối với repository
-🔗 Chọn đường dẫn cho keymap editor đến đúng repos của bạn
+### 🔗 Chọn đường dẫn cho keymap editor đến đúng repositories bàn phím của bạn (chú ý bàn phím nào repositoríes đó, hình ảnh hướng dẫn là corne)
 
 <img src="https://imgur.com/yHru4EW.jpg" width="800"/>
 <img src="https://imgur.com/6wIjezp.jpg" width="800"/>
